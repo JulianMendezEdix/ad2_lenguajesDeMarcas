@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<biblioteca xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+        xsi:noNamespaceSchemaLocation= "06_XSD_Biblioteca.xsd">
+    <documentos>
+        <libros>
+            <libro id="L0001" tipo_clase="novela" num_paginas="310">
+                <titulo></titulo>
+                <sinopsis></sinopsis>
+                <indice>
+                    <capitulo num_paginas="100">
+                        <titulo></titulo>
+                        <contenido link="https://www.google.es">
+                        </contenido>
+                    </capitulo>
+                    <capitulo num_paginas="100">
+                        <titulo></titulo>
+                        <contenido link="https://www.google.es">
+                        </contenido>
+                    </capitulo>
+                    <capitulo num_paginas="100">
+                        <titulo></titulo>
+                        <contenido link="https://www.google.es">
+                        </contenido>
+                    </capitulo>
+                </indice>
+            </libro>
+            <libro id="L0002" tipo_clase="infantil" num_paginas="310">
+                <titulo></titulo>
+                <sinopsis></sinopsis>
+                <indice>
+                    <capitulo num_paginas="100">
+                        <titulo></titulo>
+                        <contenido link="https://www.google.es">
+                        </contenido>
+                    </capitulo>
+                    <capitulo num_paginas="100">
+                        <titulo></titulo>
+                        <contenido link="https://www.google.es">
+                        </contenido>
+                    </capitulo>
+                    <capitulo num_paginas="100">
+                        <titulo></titulo>
+                        <contenido link="https://www.google.es">
+                        </contenido>
+                    </capitulo>
+                </indice>
+            </libro>
+            <libro id="L0003" tipo_clase="didactico" num_paginas="310">
+                <titulo></titulo>
+                <sinopsis></sinopsis>
+                <indice>
+                    <capitulo num_paginas="100">
+                        <titulo></titulo>
+                        <contenido link="https://www.google.es">
+                        </contenido>
+                    </capitulo>
+                    <capitulo num_paginas="100">
+                        <titulo></titulo>
+                        <contenido link="https://www.google.es">
+                        </contenido>
+                    </capitulo>
+                    <capitulo num_paginas="100">
+                        <titulo></titulo>
+                        <contenido link="https://www.google.es">
+                        </contenido>
+                    </capitulo>
+                </indice>
+            </libro>
+        </libros>
+        <revistas>
+            <revista id="R0001" tipo_clase="informatica" num_paginas="300">
+                <titulo></titulo>
+                <num_revista></num_revista>
+                <indice>
+                    <seccion num_paginas="100">                            
+                        <contenido link="https://www.google.es">
+                        </contenido>
+                    </seccion>
+                    <seccion num_paginas="100">                            
+                        <contenido link="https://www.google.es">
+                        </contenido>
+                    </seccion>
+                </indice>
+            </revista>
+            <revista id="R0002" tipo_clase="corazon" num_paginas="300">
+                <titulo></titulo>
+                <num_revista></num_revista>
+                <indice>
+                    <seccion num_paginas="100">                            
+                        <contenido link="https://www.google.es">
+                        </contenido>
+                    </seccion>
+                    <seccion num_paginas="100">                            
+                        <contenido link="https://www.google.es">
+                        </contenido>
+                    </seccion>
+                </indice>
+            </revista>
+            <revista id="R0003" tipo_clase="coches" num_paginas="300">
+                <titulo></titulo>
+                <num_revista></num_revista>
+                <indice>
+                    <seccion num_paginas="100">                            
+                        <contenido link="https://www.google.es">
+                        </contenido>
+                    </seccion>
+                    <seccion num_paginas="100">                            
+                        <contenido link="https://www.google.es">
+                        </contenido>
+                    </seccion>
+                </indice>
+            </revista>
+            <revista id="R0004" tipo_clase="investigacion" num_paginas="300">
+                <titulo></titulo>
+                <num_revista></num_revista>
+                <indice>
+                    <seccion num_paginas="100">                            
+                        <contenido link="https://www.google.es">
+                        </contenido>
+                    </seccion>
+                    <seccion num_paginas="100">                            
+                        <contenido link="https://www.google.es">
+                        </contenido>
+                    </seccion>
+                </indice>
+            </revista>
+            <revista id="R0005" tipo_clase="otras" num_paginas="0">
+                <titulo></titulo>
+                <num_revista></num_revista>
+                <indice>
+                        <seccion num_paginas="100">                            
+                            <contenido link="https://www.google.es">
+                            </contenido>
+                        </seccion>
+                        <seccion num_paginas="100">                            
+                            <contenido link="https://www.google.es">
+                            </contenido>
+                        </seccion>
+                </indice>
+            </revista>
+        </revistas>
+        <periodicos>
+            <periodico id="P0001" tipo_clase="nacional" fecha_publi="1990-02-02">
+                <indice>
+                    <seccion_periodico tipo_seccion="economica">  
+                        <articulo autor="Strauss">
+                            <contenido link="https://www.google.es">
+                            </contenido>
+                        </articulo> 
+                        <articulo autor="Chopin">
+                            <contenido link="https://www.google.es">
+                            </contenido>
+                        </articulo> 
+                    </seccion_periodico>
+                    <seccion_periodico tipo_seccion="opinion">  
+                        <articulo autor="Mozart">
+                            <contenido link="https://www.google.es">
+                            </contenido>
+                        </articulo> 
+                        <articulo autor="Wagner">
+                            <contenido link="https://www.google.es">
+                            </contenido>
+                        </articulo>                           
+                    </seccion_periodico>
+                    <seccion_periodico tipo_seccion="deportes">  
+                        <articulo autor="Stravinsky">
+                            <contenido link="https://www.google.es">
+                            </contenido>
+                        </articulo> 
+                        <articulo autor="Rachmaninoff">
+                            <contenido link="https://www.google.es">
+                            </contenido>
+                        </articulo>                           
+                    </seccion_periodico>
+                    <seccion_periodico tipo_seccion="nacional">  
+                        <articulo autor="Bach">
+                            <contenido link="https://www.google.es">
+                            </contenido>
+                        </articulo> 
+                        <articulo autor="Mahler">
+                            <contenido link="https://www.google.es">
+                            </contenido>
+                        </articulo>                           
+                    </seccion_periodico>
+                    <seccion_periodico tipo_seccion="internacional">  
+                        <articulo autor="Granados">
+                            <contenido link="https://www.google.es">
+                            </contenido>
+                        </articulo> 
+                        <articulo autor="Albeniz">
+                            <contenido link="https://www.google.es">
+                            </contenido>
+                        </articulo>                           
+                    </seccion_periodico>
+                </indice>
+            </periodico>
+            <periodico id="P0002" tipo_clase="internacional" fecha_publi="1985-02-16">
+                <indice>
+                    <seccion_periodico tipo_seccion="economica">  
+                        <articulo autor="McCartney">
+                            <contenido link="https://www.google.es">
+                            </contenido>
+                        </articulo> 
+                        <articulo autor="Lennon">
+                            <contenido link="https://www.google.es">
+                            </contenido>
+                        </articulo> 
+                    </seccion_periodico>
+                    <seccion_periodico tipo_seccion="opinion">  
+                        <articulo autor="Cobain">
+                            <contenido link="https://www.google.es">
+                            </contenido>
+                        </articulo> 
+                        <articulo autor="Curtis">
+                            <contenido link="https://www.google.es">
+                            </contenido>
+                        </articulo>                           
+                    </seccion_periodico>
+                    <seccion_periodico tipo_seccion="deportes">  
+                        <articulo autor="Bowie">
+                            <contenido link="https://www.google.es">
+                            </contenido>
+                        </articulo> 
+                        <articulo autor="Cohen">
+                            <contenido link="https://www.google.es">
+                            </contenido>
+                        </articulo>                           
+                    </seccion_periodico>
+                    <seccion_periodico tipo_seccion="nacional">  
+                        <articulo autor="Dylan">
+                            <contenido link="https://www.google.es">
+                            </contenido>
+                        </articulo> 
+                        <articulo autor="Smith">
+                            <contenido link="https://www.google.es">
+                            </contenido>
+                        </articulo>                           
+                    </seccion_periodico>
+                    <seccion_periodico tipo_seccion="internacional">  
+                        <articulo autor="Stevens">
+                            <contenido link="https://www.google.es">
+                            </contenido>
+                        </articulo> 
+                        <articulo autor="Harrison">
+                            <contenido link="https://www.talycual.com">
+                            </contenido>
+                        </articulo>                           
+                    </seccion_periodico>
+                </indice>
+            </periodico>
+        </periodicos>
+    </documentos>
+</biblioteca> 
