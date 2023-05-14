@@ -38,25 +38,25 @@ La información deberá de ir como nodo elemento a no ser que se especifique lo 
 
 Captura del archivo 06_DTD_Biblioteca.xml
 
-﻿![req1_1](img\req1_1.png)
+﻿![req1_1](img/req1_1.png)
 
 ## Elaborar un DTD que permita validar el documento XML.
 
 Captura del archivo 06_DTD_Biblioteca.dtd
 
-![Presentación1_page-0001](img\req1_2.png)
+![Presentación1_page-0001](img/req1_2.png)
 
-![Presentación1_page-0001](img\req1_22.png)
+![Presentación1_page-0001](img/req1_22.png)
 
 ## Validar el documento con alguna aplicación externa e incluir capturas de pantalla.
 
 El código es validado directamente con el DTD en VSCODE con la extensión XML language Support de Red Hat. Como vemos en la siguiente imagen, si ponemos una clase "ovela" en vez de novela nos da error de validación porque el archivo DTD nos pide que el tipo ha de ser novela, no novela.
 
-![Presentación1_page-0001](img\req1_31.png)
+![Presentación1_page-0001](img/req1_31.png)
 
 También comprobamos que es un documento "bien Formado" en el enlace proporcionado en el enunciado (https://www.w3schools.com/xml/xml_validator.asp)
 
-![Presentación1_page-0001](img\req1_3.png)
+![Presentación1_page-0001](img/req1_3.png)
 
 # REQUERIMIENTO 2
 
@@ -64,7 +64,7 @@ También comprobamos que es un documento "bien Formado" en el enlace proporciona
 
 Captura del archivo 06_XSD_Biblioteca.xsd que marca la estructura de 06_XSD_Biblioteca.xml
 
-![Presentación1_page-0001](img\req2xsd_31.png)
+![Presentación1_page-0001](img/req2xsd_31.png)
 
 ## Validar el documento con alguna aplicación externa e incluir capturas de pantalla.
 
@@ -72,7 +72,7 @@ el xml language support de red hat tambien valida el xsd.
 
 Chequeamos que nuestro xsd.xml está bien formado y pongo la captura:
 
-![Presentación1_page-0001](img\req2xsdvalid_31.png)
+![Presentación1_page-0001](img/req2xsdvalid_31.png)
 
 ## Conclusiones grupales
 
