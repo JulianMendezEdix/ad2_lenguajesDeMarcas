@@ -1,4 +1,4 @@
-﻿![Imagen1](img\Imagen1.jpg)
+﻿![Imagen1](img/Imagen1.jpg)
 
 # AE-2 XML, DTD y XSD
 
