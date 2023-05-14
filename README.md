@@ -1,4 +1,4 @@
-![Imagen1](img\Imagen1.jpg)
+﻿![Imagen1](img\Imagen1.jpg)
 
 # AE-2 XML, DTD y XSD
 
@@ -38,7 +38,7 @@ La información deberá de ir como nodo elemento a no ser que se especifique lo 
 
 Captura del archivo 06_DTD_Biblioteca.xml
 
-![Presentación1_page-0001](img\req1_1.png)
+﻿![req1_1](img\req1_1.png)
 
 ## Elaborar un DTD que permita validar el documento XML.
 
